@@ -65,7 +65,7 @@
     1. Testing
     1. Jobs
         1. Google
-        1. Microsoft
+        1. [Microsoft](/it/microsoft.md)
         1. Facebook
         1. NVIDIA
         1. Adobe
