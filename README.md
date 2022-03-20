@@ -30,7 +30,7 @@
             1. Queue (Normal, Priority Queue [Heap], Monotonic Queue)
             1. Hash (HashTable, HashSet, SortedSet, Dictionary, SortedDictionary)
             1. Tree (Binary Tree, Binary Search Tree, Prefix Tree [Trie], Segment Tree [Statistic], Binary Indexed Tree [Fenwick], Minimum Spanning)
-            1. Graph
+            1. [Graph](/it/graph.md)
         1. Algorithms
             1. Recurssion
             1. Back Tracking

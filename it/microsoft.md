@@ -22,8 +22,10 @@
 - [138. Copy List with Random Pointer](/leetcode/138.md)
 - 297. Serialize and Deserialize Binary Tree
 - [362. Design Hit Counter](/leetcode/362.md)
-- 207. Course Schedule
+- [207. Course Schedule](/leetcode/207.md)
 - 210. Course Schedule II
+- 630. Course Schedule III
+- 1462. Course Schedule IV
 - 692. Top K Frequent Words
 - 224. Basic Calculator
 - 460. LFU Cache
