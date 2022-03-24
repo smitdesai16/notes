@@ -46,13 +46,13 @@
 - 233. Number of Digit One
 - 545. Boundary of Binary Tree
 - 1386. Cinema Seat Allocation
-- 1304. Find N Unique Integers Sum up to Zero
+- [1304. Find N Unique Integers Sum up to Zero](/leetcode/1304.md)
 - 285. Inorder Successor in BST
 - [1448. Count Good Nodes in Binary Tree](/leetcode/1448.md)
 - 462. Minimum Moves to Equal Array Elements II
 - 984. String Without AAA or BBB
 - 895. Maximum Frequency Stack
-- 1822. Sign of the Product of an Array
+- [1822. Sign of the Product of an Array](/leetcode/1822.md)
 
 
 
