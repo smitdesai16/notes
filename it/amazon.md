@@ -6,7 +6,7 @@
 - [42. Trapping Rain Water](/leetcode/42.md)
 - [200. Number of Islands](/leetcode/200.md)
 - [4. Median of Two Sorted Arrays](/leetcode/4.md)
-- [588. Design In-Memory File System](/leetcode/588.md)
+- 588. Design In-Memory File System
 - [253. Meeting Rooms II](/leetcode/253.md)
 - 828. Count Unique Characters of All Substrings of a Given String
 - 23. Merge k Sorted Lists

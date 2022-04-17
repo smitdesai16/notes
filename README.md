@@ -23,6 +23,11 @@
         1. Version Control
             1. Git
         1. Data structures
+			1. [Introduction](/it/data-structures-introduction.md)
+			1. Stack vs Heap Memory
+			1. Physical vs Logical Data Strcutures
+			1. ADT (Abstract Data Type)
+			1. Time and Space Complexity
             1. [Array](/it/array.md) (String)
             1. Linked List (Singly, Doubly)
             1. Matrix
