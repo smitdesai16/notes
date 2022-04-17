@@ -64,6 +64,23 @@
 
 
 
+
+- 1371. Find the Longest Substring Containing Vowels in Even Counts
+- [1394. Find Lucky Integer in an Array](/leetcode/1394.md)
+- 1415. The k-th Lexicographical String of All Happy Strings of Length n
+- [1417. Reformat The String](/leetcode/1417.md)
+- [1458. Max Dot Product of Two Subsequences](/leetcode/1458.md)
+- [1469. Find All The Lonely Nodes](/leetcode/1469.md)
+- 1510. Stone Game IV
+- [1637. Widest Vertical Area Between Two Points Containing No Points](/leetcode/1637.md)
+- 1638. Count Substrings That Differ by One Character
+- 1671. Minimum Number of Removals to Make Mountain Array
+- 1681. Minimum Incompatibility
+- [1791. Find Center of Star Graph](/leetcode/1791.md)
+- 1802. Maximum Value at a Given Index in a Bounded Array
+- 1808. Maximize Number of Nice Divisors
+- 1887. [Reduction Operations to Make the Array Elements Equal](/leetcode/1887.md)
+- 1904. The Number of Full Rounds You Have Played
 - [1945. Sum of Digits of String After Convert](/leetcode/1945.md)
 - 2052. Minimum Cost to Separate Sentence Into Rows
 - [1952. Three Divisors](/leetcode/1952.md)
