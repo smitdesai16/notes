@@ -11,18 +11,20 @@
 - 828. Count Unique Characters of All Substrings of a Given String
 - 23. Merge k Sorted Lists
 - [79. Word Search](/leetcode/79.md)
-- 973. K Closest Points to Origin
+- [973. K Closest Points to Origin](/leetcode/973.md)
+- [1010. Pairs of Songs With Total Durations Divisible by 60](/leetcode/1010.md)
 - [273. Integer to English Words](/leetcode/273.md)
 - [49. Group Anagrams](/leetcode/49.md)
+- [211. Design Add and Search Words Data Structure](/leetcode/211.md)
 - 212. Word Search II
 - 239. Sliding Window Maximum
 - 696. Count Binary Substrings
 - 127. Word Ladder
 - 1268. Search Suggestions System
-- 210. Course Schedule II
+- [210. Course Schedule II](/leetcode/210.md)
 - 1152. Analyze User Website Visit Pattern
 - 735. Asteroid Collision
-- 926. Flip String to Monotone Increasing
+- [926. Flip String to Monotone Increasing](/leetcode/926.md)
 - 937. Reorder Data in Log Files
 - 295. Find Median from Data Stream
 - 12. Integer to Roman
