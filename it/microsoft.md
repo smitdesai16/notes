@@ -23,7 +23,7 @@
 - 297. Serialize and Deserialize Binary Tree
 - [362. Design Hit Counter](/leetcode/362.md)
 - [207. Course Schedule](/leetcode/207.md)
-- 210. Course Schedule II
+- [210. Course Schedule II](/leetcode/210.md)
 - 630. Course Schedule III
 - 1462. Course Schedule IV
 - 692. Top K Frequent Words
@@ -42,10 +42,10 @@
 - 1275. Find Winner on a Tic Tac Toe Game
 - 116. Populating Next Right Pointers in Each Node
 - 979. Distribute Coins in Binary Tree
-- 1647. Minimum Deletions to Make Character Frequencies Unique
+- [1647. Minimum Deletions to Make Character Frequencies Unique](/leetcode/1647.md)
 - 233. Number of Digit One
 - 545. Boundary of Binary Tree
-- 1386. Cinema Seat Allocation
+- [1386. Cinema Seat Allocation](/leetcode/1386.md)
 - [1304. Find N Unique Integers Sum up to Zero](/leetcode/1304.md)
 - 285. Inorder Successor in BST
 - [1448. Count Good Nodes in Binary Tree](/leetcode/1448.md)
@@ -53,6 +53,7 @@
 - 984. String Without AAA or BBB
 - 895. Maximum Frequency Stack
 - [1822. Sign of the Product of an Array](/leetcode/1822.md)
+- [1653. Minimum Deletions to Make String Balanced](/leetcode/1653.md)
 
 
 - [2124. Check if All A's Appears Before All B's](/leetcode/2124.md)
