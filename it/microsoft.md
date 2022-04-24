@@ -40,11 +40,12 @@
 - 44. Wildcard Matching
 - 1405. Longest Happy String
 - 1275. Find Winner on a Tic Tac Toe Game
-- 116. Populating Next Right Pointers in Each Node
+- [116. Populating Next Right Pointers in Each Node](/leetcode/116.md)
+- [117. 117. Populating Next Right Pointers in Each Node II](/leetcode/117.md)
 - 979. Distribute Coins in Binary Tree
 - [1647. Minimum Deletions to Make Character Frequencies Unique](/leetcode/1647.md)
 - 233. Number of Digit One
-- 545. Boundary of Binary Tree
+- [545. Boundary of Binary Tree](/leetcode/545.md)
 - [1386. Cinema Seat Allocation](/leetcode/1386.md)
 - [1304. Find N Unique Integers Sum up to Zero](/leetcode/1304.md)
 - 285. Inorder Successor in BST
