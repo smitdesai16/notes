@@ -57,7 +57,7 @@
 
 
 - [2124. Check if All A's Appears Before All B's](/leetcode/2124.md)
-- 1239. Maximum Length of a Concatenated String with Unique Characters
+- [1239. Maximum Length of a Concatenated String with Unique Characters](/leetcode/1239.md)
 - 722. Remove Comments
 - [277. Find the Celebrity](/leetcode/277.md)
 - [165. Compare Version Numbers](/leetcode/165.md)
